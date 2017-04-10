@@ -1,14 +1,14 @@
-# mkenya-daima
+# Mkenya-Daima
 
 This is an online retail shop that sells apparel that promotes patriotism
 
 
 ## Authors
 
-William Mbotela
-Brian Kiragu
-Ephantus Kinuthia
-Steve Kiarie
+*William Mbotela
+*Brian Kiragu
+*Ephantus Kinuthia
+*Steve Kiarie
 
 ## Prerequisites
 
