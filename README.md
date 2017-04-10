@@ -1,7 +1,14 @@
 # mkenya-daima
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is an online retail shop that sells apparel that promotes patriotism
+
+
+## Authors
+
+William Mbotela
+Brian Kiragu
+Ephantus Kinuthia
+Steve Kiarie
 
 ## Prerequisites
 
@@ -15,7 +22,7 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
+* `git clone https://github.com/wmbotela/Mkenya-Daima-.git
 * `cd mkenya-daima`
 * `npm install`
 * `bower install`
@@ -41,7 +48,12 @@ Make use of the many generators for code, try `ember help generate` for more det
 
 ### Deploying
 
-Specify what it takes to deploy your app.
+Deployed using Heroku app.
+
+
+## License
+
+
 
 ## Further Reading / Useful Links
 
